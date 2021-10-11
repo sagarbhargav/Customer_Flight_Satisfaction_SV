@@ -16,9 +16,9 @@ The dataset consists of information of passengers boarding and de-boarding infor
 
 | Column | Descriptions  |
 | --| -- |
-| ID  | Unique ID |
-| Gender| Gender of the Passenger |
-| Satisfaction | If the passenger is Satisficed or not |
+|ID| Unique ID |
+|Gender| Gender of the Passenger |
+|Satisfaction| If the passenger is Satisficed or not |
 ![enter image description here](https://www.smartertravel.com/wp-content/uploads/2016/11/shutterstock_321121055-1400x500.jpg)
 
 For Notebook please [Click Here](https://github.com/sagarbhargav/Customer_Flight_Satisfaction_SV/blob/main/Flight%20Passenger%20Satisfaction%20Prediction.ipynb)
